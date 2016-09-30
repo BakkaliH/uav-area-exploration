@@ -1,0 +1,148 @@
+{
+  "nodes": [ {
+      "label": "A",
+      "id": "n0",
+      "x": 0,
+      "y": 0,
+      "size": 3,
+      "color": "#617db4"
+    },
+    {
+      "id": "n1",
+      "label": "B",
+      "x": 1,
+      "y": 0,
+      "size": 2,
+      "color": "#617db4"
+    },
+    {
+      "id": "n2",
+      "label": "And a last one",
+      "x": 2,
+      "y": 0,
+      "size": 2,
+      "color": "#617db4"
+    },
+    {
+      "id": "n3",
+      "label": "And a last one",
+      "x": 3,
+      "y": 0,
+      "size": 2,
+      "color": "#617db4"
+    },
+    {
+      "id": "n4",
+      "label": "And a last one",
+      "x": 4,
+      "y": 0,
+      "size": 2,
+      "color": "#617db4"
+    },
+    {
+      "id": "n5",
+      "label": "And a last one",
+      "x": 5,
+      "y": 0,
+      "size": 2,
+      "color": "#617db4"
+    },
+    {
+      "id": "n6",
+      "label": "And a last one",
+      "x": 6,
+      "y": 0,
+      "size": 2
+    },
+    {
+      "id": "n7",
+      "label": "And a last one",
+      "x": 7,
+      "y": 0,
+      "size": 2
+    },
+    {
+      "id": "n8",
+      "label": "And a last one",
+      "x": 8,
+      "y": 0,
+      "size": 2
+    },
+    {
+      "id": "n9",
+      "label": "And a last one",
+      "x": 9,
+      "y": 0,
+      "size": 2
+    },
+    {
+      "id": "n10",
+      "label": "B",
+      "x": 10,
+      "y": 0,
+      "size": 3
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "n0",
+      "target": "n1",
+      "type": "arrow"
+    },
+    {
+      "id": "e1",
+      "source": "n1",
+      "target": "n2",
+      "type": "arrow"
+    },
+    {
+      "id": "e2",
+      "source": "n2",
+      "target": "n3",
+      "type": "arrow"
+    },
+    {
+      "id": "e3",
+      "source": "n3",
+      "target": "n4",
+      "type": "arrow"
+    },
+    {
+      "id": "e4",
+      "source": "n4",
+      "target": "n5",
+      "type": "arrow"
+    },
+    {
+      "id": "e5",
+      "source": "n6",
+      "target": "n5",
+      "type": "arrow"
+    },
+    {
+      "id": "e6",
+      "source": "n7",
+      "target": "n6",
+      "type": "arrow"
+    },
+    {
+      "id": "e7",
+      "source": "n8",
+      "target": "n7",
+      "type": "arrow"
+    },
+    {
+      "id": "e8",
+      "source": "n9",
+      "target": "n8",
+      "type": "arrow"
+    },
+    {
+      "id": "e9",
+      "source": "n10",
+      "target": "n9",
+      "type": "arrow"
+    }
+  ]
+}
